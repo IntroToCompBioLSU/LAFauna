@@ -1,7 +1,6 @@
-Scincella_lateralis
-Anolis_carolinensis
-Ophisaurus_ventralis
-Hemidactylus_turcicus
-Prasinohaema_prehensicauda
-Plestiodon_fasciatus
+1. Scincella_lateralis
+2. Anolis_carolinensis
+3. Ophisaurus_ventralis
+4. Hemidactylus_turcicua
+5. Plestiodon_fasciatus
 
